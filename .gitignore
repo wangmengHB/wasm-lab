@@ -1,0 +1,13 @@
+DS_Store
+node_modules
+dist
+lib
+esm
+clib.dSYM
+clib
+_temp
+libs-c
+libs-wasm
+test_video
+
+
